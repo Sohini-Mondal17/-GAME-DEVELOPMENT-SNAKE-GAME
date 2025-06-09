@@ -63,3 +63,4 @@ This game serves as a practical way for students to learn about loops, condition
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/92e434a8-c040-490d-86fd-4ebe6a607ac3)
